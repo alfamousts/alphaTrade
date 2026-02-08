@@ -1,0 +1,50 @@
+# Output directories
+output_train/
+**/output_train/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (large binary files)
+*.joblib
+*.pkl
+*.h5
+*.pb
+
+# Parquet files (data files)
+*.parquet
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp

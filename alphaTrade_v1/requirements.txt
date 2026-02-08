@@ -1,0 +1,28 @@
+# AlphaTrade XGBoost Trading Pipeline - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core Data Processing
+pandas
+numpy
+pyarrow  # Required for parquet file support
+
+# Machine Learning
+xgboost
+scikit-learn
+joblib
+
+# Statistical Analysis (for stationarity checks in feature engineering)
+statsmodels
+
+# Timezone Support (for label builder timezone handling)
+pytz
+
+# HTTP Requests (for API model upload)
+requests
+
+# Database Support (for MySQL remote database)
+pymysql
+SQLAlchemy
+
+# Environment Variables (for .env file loading)
+python-dotenv
