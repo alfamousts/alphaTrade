@@ -233,11 +233,11 @@ The pipeline supports uploading models to a remote API server:
 
 ## 📝 License
 
-[Add your license here]
+
 
 ## 👥 Authors
 
-[Add author information here]
+Tsaqif Alfatan Nugraha 
 
 ## 🙏 Acknowledgments
 
